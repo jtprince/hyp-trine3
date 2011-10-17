@@ -1,6 +1,6 @@
-= trine3
+= hyp-trine3
 
-This is not really Trine3, as you may have guessed.  This is just a toy for
+This is not really Trine3, as you may have guessed.  This is just a game for
 playing around with game-building with my son.
 
 == Copyright
